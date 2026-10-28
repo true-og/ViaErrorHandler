@@ -4,6 +4,6 @@ main: de.florianmichael.viaerrorhandler.ViaErrorHandler
 api-version: '${apiVersion}'
 
 authors: [FlorianMichael, EnZaXD, NotAlexNoyle]
-website: https://github.com/true-og/ViaErrorHandler
+website: https://git.trueog.net/trueog/ViaErrorHandler
 
 loadbefore: [ViaVersion]
